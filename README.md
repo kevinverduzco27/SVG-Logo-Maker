@@ -11,9 +11,10 @@ creates rapid logos with only just 5 questions
 ## Installation:
 
 ```
+https://drive.google.com/file/d/1xW7UYuK24jA49GvLjByXuP_K7jHnG_xc/view
 
 ```
-## Configuration:
+## how to use:
 
 ```
 
@@ -39,5 +40,5 @@ simply search the city you would like to see the temperature or weather conditio
 ## what I've leaarned:
 
 ```
-
+how to make videos
 ```
